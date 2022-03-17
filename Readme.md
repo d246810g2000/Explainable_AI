@@ -10,7 +10,7 @@
 * [Machine learning explainability](https://www.kaggle.com/learn/machine-learning-explainability)
 
 ## Machine Learning
-- [ ] 01. Interpretable ML Models
+- [x] 01. Interpretable ML Models
 - [ ] 02. Local Surrogate (LIME)
 - [ ] 03. SHapley Additive exPlanations (SHAP)
 
