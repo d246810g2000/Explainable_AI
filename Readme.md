@@ -4,7 +4,7 @@
 ## Machine Learning
 - [x] 01. Interpretable ML Models
 - [x] 02. Local Surrogate (LIME)
-- [ ] 03. SHapley Additive exPlanations (SHAP)
+- [x] 03. SHapley Additive exPlanations (SHAP)
 
 ## Deep Learning
 - [ ] 01. Perturbation-Based
