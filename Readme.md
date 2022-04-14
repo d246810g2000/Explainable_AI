@@ -2,8 +2,9 @@
 ###### tags: `XAI`
 
 ## Machine Learning
-- [x] 01. Interpretable ML Models
-- [x] 02. Local Surrogate (LIME)
+- [x] 00. Data Exploration
+- [x] 01. Intrinsically Intepretable Models
+- [x] 02. Local Interpretable Model-agnostic (LIME)
 - [x] 03. SHapley Additive exPlanations (SHAP)
 
 ## Deep Learning
