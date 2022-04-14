@@ -3,7 +3,7 @@
 
 ## Machine Learning
 - [x] 00. Data Exploration
-- [x] 01. Intrinsically Intepretable Models
+- [x] 01. Intrinsically Interpretable Models
 - [x] 02. Local Interpretable Model-agnostic (LIME)
 - [x] 03. SHapley Additive exPlanations (SHAP)
 
