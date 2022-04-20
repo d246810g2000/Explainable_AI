@@ -5,7 +5,8 @@
 - [x] 00. Data Exploration
 - [x] 01. Intrinsically Interpretable Models
 - [x] 02. Local Interpretable Model-agnostic (LIME)
-- [x] 03. SHapley Additive exPlanations (SHAP)
+- [x] 03. SHapley Additive exPlanations (SHAP) - Tree SHAP
+- [x] 04. SHapley Additive exPlanations (SHAP) - Kernel SHAP
 
 ## Deep Learning
 - [ ] 01. Perturbation-Based
