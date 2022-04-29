@@ -1,6 +1,8 @@
 # Codes for XAI course
 ###### tags: `XAI`
 
+<img width="1080" alt="image" src="xai.png">
+
 ## Machine Learning
 - [x] 00. Data Exploration
 - [x] 01. Intrinsically Interpretable Models
