@@ -15,8 +15,8 @@
     - [x] Sensitivity Analysis (Simonyan et al. 14)
     - [x] SmoothGrad (Smikov et al. 17)
     - [x] Integrated Gradients (Sundararajan et al. 17)
-- [ ] 03. Propagation-Based
-    - [ ] LRP (Bach et al. 15)
+- [x] 03. Propagation-Based
+    - [x] LRP (Bach et al. 15)
 - [x] 04. CAM-Based
     - [x] Grad-CAM (Ancona et al. 16)
     - [x] Layer-CAM (Peng-Tao et al. 21
