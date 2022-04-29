@@ -11,17 +11,15 @@
 ## Deep Learning
 - [x] 01. Perturbation-Based
     - [x] Occlusion Sensitivity (Zeiler & Fergus 14)
-- [ ] 02. Gradient-Based
-    - [ ] Sensitivity Analysis (Simonyan et al. 14)
-    - [ ] SmoothGrad (Smikov et al. 17)
-    - [ ] Gradient * Input (Shrikumar et al. 16)
-    - [ ] Integrated Gradients (Sundararajan et al. 17)
+- [x] 02. Gradient-Based
+    - [x] Sensitivity Analysis (Simonyan et al. 14)
+    - [x] SmoothGrad (Smikov et al. 17)
+    - [x] Integrated Gradients (Sundararajan et al. 17)
 - [ ] 03. Propagation-Based
     - [ ] LRP (Bach et al. 15)
-- [ ] 04. CAM-Based
-    - [ ] Grad-CAM (Ancona et al. 16)
-    - [ ] Grad-CAM++ (Chattopadhyay et al. 17)
-    - [ ] Score-CAM (Haofan et al. 20)
+- [x] 04. CAM-Based
+    - [x] Grad-CAM (Ancona et al. 16)
+    - [x] Layer-CAM (Peng-Tao et al. 21
     
 ## Reference:
 * [deepfindr: xai-series](https://github.com/deepfindr/xai-series)
