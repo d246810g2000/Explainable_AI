@@ -1,6 +1,7 @@
 # Codes for XAI course
 ###### tags: `XAI`
 
+# Explainable AI (XAI) 
 <img width="1080" alt="image" src="xai.png">
 
 ## Machine Learning
