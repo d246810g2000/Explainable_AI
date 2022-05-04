@@ -218,3 +218,10 @@ events.out.tfevents*
 
 # mac
 .DS_Store
+
+# data
+anomaly_datasets
+crack_datasets
+
+# model
+model-logs
