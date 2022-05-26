@@ -20,7 +20,7 @@
     - [x] LRP (Bach et al. 15)
 - [x] 04. CAM-Based
     - [x] Grad-CAM (Ancona et al. 16)
-    - [x] Layer-CAM (Peng-Tao et al. 21
+    - [x] Layer-CAM (Peng-Tao et al. 21)
     
 ## Reference:
 * [deepfindr: xai-series](https://github.com/deepfindr/xai-series)
